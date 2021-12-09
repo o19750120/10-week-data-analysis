@@ -17,6 +17,7 @@
   >更新資料
   >>更新成一個固定值：update table set col=1;
   >>從另一張表裡面更新：update table set col=tableb.col from tablebwhere table.id=tableb.id;
+* 第四週：數理統計學
   
 
 
