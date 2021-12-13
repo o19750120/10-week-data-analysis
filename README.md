@@ -37,7 +37,8 @@
 3. 漏斗分析模型
 4. 客戶生命週期
 5. 預測、聚類分析等挖掘模型 
-
+* 第八週：Python/R 語言掌握 
+   * 掌握 Numpy、Pandas、Matplotlib
   
 
 
