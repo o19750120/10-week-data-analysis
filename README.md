@@ -1,6 +1,8 @@
 # 10-week-data-analysis
+## 具備看待一個事物的邏輯化思維，其次用資料去證明
 *  [第一週：培養資料分析思維](https://medium.com/@h0100556910721/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E7%9A%84%E4%B8%89%E7%A8%AE%E6%80%9D%E7%B6%AD%E6%9E%B6%E6%A7%8B%E8%88%87%E4%B8%83%E7%A8%AE%E6%80%9D%E7%B6%AD%E6%8A%80%E5%B7%A7-904b6581a69a)
     * 思維方式：金字塔/結構化思維(分類問題、心智圖)、公式化思維(量化分析)、業務化思維
+![image](https://lh6.googleusercontent.com/poV1jHjQhwD3d9jCpFkCAIEZR6-lHEc-84IJ8sA6W7AXK7iuwhc87lsIOL8em3R31Zy4m351ITM27Ye1qptpax2Od1k6NjncCO9gPFIe9HrAY7zBLK_cbdhfpILh75DI5-wFd85w)
 * 第二週：Excel 技能進階 
   * Excel 函數、資料透視表(樞紐分析表)
 * 第三週：學習資料庫原理和 SQL
@@ -39,6 +41,8 @@
 5. 預測、聚類分析等挖掘模型 
 * 第八週：Python/R 語言掌握 
    * 掌握 Numpy、Pandas、Matplotlib
-  
+* 第九週：業務理解和指標設計 
+* 第十週：資料驅動&成長駭客
+   
 
 
